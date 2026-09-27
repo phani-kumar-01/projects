@@ -18,3 +18,11 @@
 	path = photo/self-intro-portal
 	url = https://github.com/elite-site/self-repo.git
 
+[submodule "linux manger"]
+	path = linux manger
+	url = https://github.com/phani-kumar-01/linux-manager.git
+
+[submodule "photo_backup"]
+	path = photo_backup
+	url = https://github.com/phani-kumar-01/photograph-backup.git
+
