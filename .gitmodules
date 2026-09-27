@@ -1,0 +1,20 @@
+[submodule "portiflio"]
+	path = portiflio
+	url = https://github.com/phani-kumar-01/portiflio.git
+
+[submodule "learn/flappy"]
+	path = learn/flappy
+	url = https://github.com/phani-kumar-01/Flappy_CPP.git
+
+[submodule "retro/nes-games"]
+	path = retro/nes-games
+	url = https://github.com/retrobrews/nes-games.git
+
+[submodule "retro/retrobox"]
+	path = retro/retrobox
+	url = https://github.com/phani-kumar-01/RetroBox.git
+
+[submodule "photo/self-intro-portal"]
+	path = photo/self-intro-portal
+	url = https://github.com/elite-site/self-repo.git
+
